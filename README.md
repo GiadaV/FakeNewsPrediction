@@ -5,7 +5,7 @@ First of all, this issue is primarily a social problem and a good solution of my
 The project consists in a classification problem of fake news prediction.
 The dataset is taken from this Kaggle repository - https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset#True.csv which contains two dataset: 
 1. the first one contains a list of articles considered as "real" news;
-2. the seconde one ontains a list of articles considered as "fake" news;
+2. the seconde one contains a list of articles considered as "fake" news;
 
 I treat the problem at hand as a binary classification task, to understand how related or unrelated the reported news when compared to the real news. 
 
