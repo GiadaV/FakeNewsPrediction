@@ -12,8 +12,10 @@ I treat the problem at hand as a binary classification task, to understand how r
 ### Project overview
 The assignment is divided into steps:
 - Data exploration and preparation 
+- Build and Train The Model
+- Asses trained model performance
 - I algorithm: Support Vector Classifier
 - II algorithm: Nearest Neighbor
 - III algorithm: Decision Tree
 - IV algorithm: Ensamble Methods (Random Forest / Extra Trees plus Boosting)
-- Analysis results 
+- Analysis results  
